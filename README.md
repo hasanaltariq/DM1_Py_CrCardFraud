@@ -45,11 +45,9 @@ Here, we will go through the following steps:
     Python 3.8, (Jupyter Notebook), pandas-1.1.1, numpy-1.19.1, scipy-1.5.2, scikit-learn-0.23.2, matplotlib-3.3.1, seaborn-0.10.1, imbalanced-learn
 
 ### Resources that were helpful:
-[Muhammad Rizwan](https://engmrk.com/module-19-credit-card-fraud-detection/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com
+[1](https://engmrk.com/module-19-credit-card-fraud-detection/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com
 )
 
-[Christos Mousmoulas](https://towardsdatascience.com/credit-card-fraud-detection-1b3b3b44109b)
+[2](https://towardsdatascience.com/credit-card-fraud-detection-1b3b3b44109b)
 
 
-
-_License MIT_
